@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A5CB0B21-520F-41D4-8ADF-9C96FBB5DA30}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/MemberController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Models/Baraga/BaragaContext.cs" Line="1" Column="1" />
+      <File FileName="Controllers/MemberController.cs" Line="20" Column="32" />
+      <File FileName="Views/Home/Index.cshtml" Line="10" Column="1" />
+      <File FileName="Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="1" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="newMVC" expanded="True">
+            <Node name="newMVC" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="MemberController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.newMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
